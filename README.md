@@ -1,2 +1,3 @@
 # FlappyGoose
-A goose game
+A goose game. Play it at: http://powerbrendan.com/FlappyGoose/
+
